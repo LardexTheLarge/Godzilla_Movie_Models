@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 Godzilla.xlsx
+godzilla_revenue_model.pkl
+preprocessor.pkl
 # C extensions
 *.so
 
