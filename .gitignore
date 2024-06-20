@@ -5,6 +5,7 @@ __pycache__/
 Godzilla.xlsx
 godzilla_revenue_model.pkl
 preprocessor.pkl
+regression.txt
 # C extensions
 *.so
 
