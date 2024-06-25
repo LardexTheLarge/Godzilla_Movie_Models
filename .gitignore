@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 Godzilla.xlsx
 godzilla_revenue_model.pkl
+godzilla_era_model.pkl
 preprocessor.pkl
 regression.txt
 class.txt
