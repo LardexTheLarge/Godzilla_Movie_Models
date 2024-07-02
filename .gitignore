@@ -11,6 +11,7 @@ regression.txt
 class.txt
 cluster.txt
 scaler.pkl
+forecast.txt
 
 # C extensions
 *.so
