@@ -12,6 +12,7 @@ class.txt
 cluster.txt
 scaler.pkl
 forecast.txt
+prophet_model.pkl
 
 # C extensions
 *.so
