@@ -14,7 +14,8 @@ scaler.pkl
 forecast.txt
 prophet_model.pkl
 prophet_data.pkl
-
+godzilla_multilabel_model.pkl
+mlb.pkl
 # C extensions
 *.so
 
